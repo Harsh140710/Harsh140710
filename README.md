@@ -81,7 +81,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="[[https://www.linkedin.com/in/harsh-suthar-31b03b2b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/harsh-suthar-31b03b2b4/)](https://www.linkedin.com/in/harsh-suthar-31b03b2b4/)" target="_blank">
+  <a href="https://linkedin.com/in/harsh-suthar-31b03b2b4/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
   <a href="https://github.com/Harsh140710" target="_blank">
