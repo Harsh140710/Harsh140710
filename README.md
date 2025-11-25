@@ -23,7 +23,14 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c,git,github,vscode,bootstrap,tailwind,postman" />
+  <h1 align="center">Programming Langueages</h1>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,c,python" />
+  <h1 align="center">Web Devlopment</h1>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,bootstrap,tailwind,postman" />
+  <h1 align="center">Master Stack ( MERN )</h1>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+  <h1>Tools & Technologies</h1>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 ---
